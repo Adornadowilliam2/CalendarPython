@@ -21,17 +21,13 @@ A simple Python calendar application.
 ## Installation
 1. Clone the repository:
 git clone https://github.com/Adornadowilliam2/CalendarPython.git
-
-csharp
-Copy code
+<br>
 2. Navigate into the directory:
 cd CalendarPython
-
-markdown
-Copy code
+<br>
 3. Run the application:
 python calendar.py
-
+<br>
 css
 Copy code
 
