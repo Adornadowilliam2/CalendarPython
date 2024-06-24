@@ -19,10 +19,8 @@ A simple Python calendar application.
 - Add and manage events
 
 ## Installation
-1. Clone the repository:
-git clone https://github.com/Adornadowilliam2/CalendarPython.git
-<br>
-2. Navigate into the directory:
+1. Clone the repository:git clone https://github.com/Adornadowilliam2/CalendarPython.git
+<br>2. Navigate into the directory:
 cd CalendarPython
 <br>
 3. Run the application:
