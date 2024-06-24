@@ -28,8 +28,6 @@ cd CalendarPython
 3. Run the application:
 python calendar.py
 <br>
-css
-Copy code
 
 ## Usage
 - Upon running `calendar.py`, the current month's calendar will be displayed.
